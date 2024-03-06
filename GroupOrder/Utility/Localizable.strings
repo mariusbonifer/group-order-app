@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GroupOrder
+
+  Created by Marius IHUB on 24.02.24.
+  
+*/
+"orders" = "Bestellungen";
+"order" = "Bestellung";
+"settings" = "Einstellungen";
+"no_orders" = "Keine Bestellungen";
+"no_orders_text" = "Bisher wurden keine bestellungen angelegt. Klicke auf \”+\” um eine neue Bestellung anzulegen.";
